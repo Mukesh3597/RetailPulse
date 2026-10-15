@@ -1,0 +1,12 @@
+{
+    "model": "RandomForestClassifier",
+    "accuracy": 0.6752,
+    "roc_auc": 0.7279,
+    "precision_churn": 0.6875,
+    "churn_label_rule": "Churn=1 if Recency_Days > 90",
+    "features": [
+        "Total_Orders",
+        "Total_Spending",
+        "Total_Quantity"
+    ]
+}
