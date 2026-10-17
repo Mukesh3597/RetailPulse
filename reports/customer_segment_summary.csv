@@ -1,7 +1,7 @@
-Segment,Segment_Name,Customer_Count,Avg_Recency,Avg_Frequency,Avg_Monetary
-0,Inactive Low-Spend,1029,531.0,1.19,251.29
-1,Recent Low-Frequency,981,118.81,1.41,298.12
-2,Regular Customers,1374,68.25,3.72,1165.82
-3,Loyal High-Value,1199,56.14,9.59,3982.74
-4,Champions,433,30.49,34.48,22406.0
-5,At-Risk Customers,862,398.45,3.27,1291.71
+Segment,Customer_Count,Avg_Recency,Median_Recency,Avg_Frequency,Avg_Monetary,Median_Monetary,Segment_Name
+0,1029,532.0,530.0,1.19,251.29,223.91,Inactive Customers
+1,981,119.81,82.0,1.41,298.12,278.3,Occasional Customers
+2,1374,69.25,50.0,3.72,1165.82,1024.6,Regular Customers
+3,1199,57.14,32.0,9.59,3982.74,3168.94,Loyal High-Value Customers
+4,433,31.49,11.0,34.48,22406.0,10889.64,Champions
+5,862,399.45,394.0,3.27,1291.71,934.04,At-Risk Valuable Customers
